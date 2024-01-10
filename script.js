@@ -14,10 +14,11 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
   },  
+
   {
-    author: "philip",
-    poem: "Roses are red \n Good morning \n Good afternoon \n Good night" ,
-    image: "hawaii.jpg"
+    author : "mohamed",
+    poem : "Roses are red \n Violets are blue \n I am a programmer \n And so are you",
+    image : "programmer.jpeg",
   }
 ];
 

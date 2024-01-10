@@ -6,11 +6,12 @@
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
-  background-color: purple;
+  background-color: rgb(0, 89, 15);
 }
 
 .page-header {
   text-align: center;
+  background-color:yellow;
 }
 
 .container {
@@ -30,3 +31,4 @@ body {
 .poem__image {
   width: 100%;
 }
+

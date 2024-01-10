@@ -11,6 +11,7 @@ body {
 
 .page-header {
   text-align: center;
+  background-color:yellow;
 }
 
 .container {
@@ -30,3 +31,4 @@ body {
 .poem__image {
   width: 100%;
 }
+
